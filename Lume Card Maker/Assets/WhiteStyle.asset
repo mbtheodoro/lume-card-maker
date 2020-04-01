@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9700b375d3e93443a53b990f40c4dcc, type: 3}
+  m_Name: WhiteStyle
+  m_EditorClassIdentifier: 
+  cardIcon: {fileID: 21300000, guid: fcb184853400ef145bdb6e885b54d6a3, type: 3}
+  unitDefaultImage: {fileID: 21300000, guid: ed6c6d97466da8544b742980080539d5, type: 3}
+  attackDefaultImage: {fileID: 0}
+  spellDefaultImage: {fileID: 0}
+  equipDefaultImage: {fileID: 0}
+  mainColorA: {r: 0.794, g: 0.794, b: 0.7490196, a: 1}
+  mainColorB: {r: 0.9411765, g: 0.9411765, b: 0.9098039, a: 1}
+  accentColor: {r: 0, g: 0, b: 0, a: 0}
+  borderColor: {r: 0.631, g: 0.631, b: 0.59909546, a: 1}
+  nameTextFont: {fileID: 12800000, guid: 3d50a746fc2901e4997e9159288b9ccf, type: 3}
+  descriptionTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5,
+    type: 3}
+  flavorTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5, type: 3}
+  numbersTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5, type: 3}
+  nameTextColor: {r: 0.2, g: 0.19428, b: 0.1688, a: 1}
+  descriptionTextColor: {r: 0.20000002, g: 0.19607845, b: 0.16862746, a: 1}
+  flavorTextColor: {r: 0.20000002, g: 0.19607845, b: 0.16862746, a: 1}
+  numbersTextColor: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9700b375d3e93443a53b990f40c4dcc, type: 3}
+  m_Name: EquipStyle
+  m_EditorClassIdentifier: 
+  cardIcon: {fileID: 0}
+  unitDefaultImage: {fileID: 0}
+  mainColorA: {r: 0.74645996, g: 0.771056, b: 0.78, a: 1}
+  mainColorB: {r: 0.74509805, g: 0.7725491, b: 0.7803922, a: 1}
+  accentColor: {r: 0, g: 0, b: 0, a: 0}
+  borderColor: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 1}
+  nameTextFont: {fileID: 12800000, guid: 3d50a746fc2901e4997e9159288b9ccf, type: 3}
+  descriptionTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5,
+    type: 3}
+  flavorTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5, type: 3}
+  numbersTextFont: {fileID: 12800000, guid: 522dce233aa73124e9e4bff1a92c7de5, type: 3}
+  nameTextColor: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 1}
+  descriptionTextColor: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 1}
+  flavorTextColor: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 1}
+  numbersTextColor: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 1}
